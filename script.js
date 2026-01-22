@@ -1,34 +1,36 @@
 const products = [
   {
-    title: "Wireless Bluetooth Earbuds",
-    description: "Compact earbuds with deep bass and long battery life.",
-    image: "images/ad.png",
+    title: "Premium Deadlift Straps",
+    description: "Built to withstand the toughest workouts, these weight lifting gloves with straps offer long-lasting performance.",
+    image: "images/grip.png",
     rating: "★★★★☆",
-    link: "https://amzn.to/3YXnvxt"
+    link: "https://amzn.to/4baN4CM"
   },
   {
     title: "Smart Fitness Watch",
-    description: "Track steps, heart rate, and workouts easily.",
-    image: "images/ut.png",
-    rating: "★★★★★",
-    link: "https://www.amazon.com/?tag=YOURAFFILIATEID"
+    description: "CONTINUOUS MONITORING: WHOOP monitors your most important metrics, including sleep, heart rate, blood oxygen, stress, menstrual cycle, and insights to optimize fitness, recovery, and overall health.",
+    image: "images/watch.png",
+    rating: "★★★★☆",
+    link: "https://amzn.to/3NydlB6"
   },
   {
     title: "Portable Power Bank",
     description: "Fast charging power bank for phones and tablets.",
-    image: "images/ut.png",
+    image: "images/power .png",
     rating: "★★★★☆",
-    link: "https://amzn.to/3YXnvxt"
+    link: "https://amzn.to/3Nx4cZx"
   }
 
 ,
   {
     title: "Noise Cancelling Headphones",
-    description: "Immersive sound with active noise cancellation.",
-    image: "images/cc.png",
+    description: "Hybrid Active Noise Cancelling: 2 internal and 2 external mics work in tandem to detect external noise and effectively reduce up to 90% of it, no matter in airplanes, trains, or offices.",
+    image: "images/headphones.png",
     rating: "★★★★★",
-    link: "https://www.amazon.com/?tag=YOURAFFILIATEID"
+    link: "https://amzn.to/3LF2aWO"
   }
+
+  
 ];
 
 function searchProducts() {
