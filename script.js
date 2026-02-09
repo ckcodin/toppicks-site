@@ -7,6 +7,13 @@ const products = [
     link: "https://amzn.to/4baN4CM"
   },
   {
+    title: "Honey Jar",
+    description: "No Drip with Base 2025 Upgrade, 12OZ Glass Honey Jar pot with Handle, Syrup Dispenser for Coffee or Tea, Mess Free Honey Dispenser for Honey and Syrup, Honey Container",
+    image: "images/jar.png",
+    rating: "★★★★☆",
+    link: "https://amzn.to/4qqJ0SO"
+  },
+  {
     title: "Smart Fitness Watch",
     description: "CONTINUOUS MONITORING: WHOOP monitors your most important metrics, including sleep, heart rate, blood oxygen, stress, menstrual cycle, and insights to optimize fitness, recovery, and overall health.",
     image: "images/watch.png",
