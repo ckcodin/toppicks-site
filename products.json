@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "title": "Premium Deadlift Straps",
-      "description": "Built to withstand the toughest workouts, these weight lifting gloves with straps offer long-lasting performance.",
-      "image": "images/grip.png",
+      "title": "Electronic Digital Tape",
+      "description": "Measure with LCD Display Digital Ruler Rechargeable Small Smart Rolling Measuring Tool for Flat Curved Diameter Odd Shape Ideal Surprise for You",
+      "image": "images/Tape.png",
       "rating": "★★★★☆",
-      "link": "https://amzn.to/4baN4CM",
-      "categories": ["top", "deal"]
+      "link": "https://amzn.to/4azcIPF",
+      "categories": ["top"]
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "image": "images/watch.png",
       "rating": "★★★★☆",
       "link": "https://amzn.to/3NydlB6",
-      "categories": ["top", "trending"]
+      "categories": ["deal"]
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "image": "images/headphones.png",
       "rating": "★★★★★",
       "link": "https://amzn.to/3LF2aWO",
-      "categories": ["trending", "top"]
+      "categories": ["deal"]
     },
     {
         "id": 6,
@@ -60,7 +60,7 @@
       "image": "images/lint.png",
       "rating": "★★★★☆",
       "link": "https://amzn.to/4aI6UEG",
-      "categories": ["top"]
+      "categories": ["top" ,"trending"]
     },
     {
       "id": 8,
@@ -69,7 +69,7 @@
       "image": "images/catfurr.png",
       "rating": "★★★★☆",
       "link": "https://amzn.to/4aI1465",
-      "categories": ["top", "trending"]
+      "categories": ["trending"]
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@
       "image": "images/Siaasoo.png",
       "rating": "★★★★☆",
       "link": "https://amzn.to/4kxkkXl",
-      "categories": ["top", "deal"]
+      "categories": ["top", "trending"]
     },
     {
       "id": 11,
@@ -123,6 +123,15 @@
       "image": "images/Shedding.png",
       "rating": "★★★★☆",
       "link": "https://amzn.to/3MC0KwA",
+      "categories": ["deal"]
+    },
+    {
+      "id": 15,
+      "title": "Premium Deadlift Straps",
+      "description": "Built to withstand the toughest workouts, these weight lifting gloves with straps offer long-lasting performance.",
+      "image": "images/grip.png",
+      "rating": "★★★★☆",
+      "link": "https://amzn.to/4baN4CM",
       "categories": ["top", "deal"]
     }
   ]
