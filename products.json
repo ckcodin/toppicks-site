@@ -133,6 +133,51 @@
       "rating": "★★★★☆",
       "link": "https://amzn.to/4baN4CM",
       "categories": ["top", "deal"]
+    },
+    {
+      "id": 16,
+      "title": "Anker Nano Charger",
+      "description": "A 45W Fast Charging Smart Display Charger, with 180° Foldable Plug, Smart Recognition, Built-in Care Mode, for iPhone17/16/15(Non-Battery,One USB-C Port,No Cable Included)",
+      "image": "images/Nano.png",
+      "rating": "★★★★☆",
+      "link": "https://amzn.to/4cx4l9F",
+      "categories": ["top"]
+    },
+    {
+      "id": 17,
+      "title": "Fanttik S1 Pro Electric Screwdriver",
+      "description": "Power Screwdriver with16 S2 Steel Bits, 3 Torque Settings, Max 6 N.m, 2000mAh Battery, LED Light & 1/4''Hex, Ideal Tool for Furniture & Gaming PC",
+      "image": "images/Fanttik.png",
+      "rating": "★★★★☆",
+      "link": "https://amzn.to/3MOvKcT",
+      "categories": ["top"]
+    },
+    {
+      "id": 18,
+      "title": "Tineco Vacuum Cleaner",
+      "description": "Smart Cordless Wet Dry Vacuum Cleaner and Mop for Hard Floors, Digital Display, Long Run Time, Great for Sticky Messes and Pet Hair, Space-Saving Design, Blue",
+      "image": "images/Tineco.png",
+      "rating": "★★★★☆",
+      "link": "https://amzn.to/4rlZYTw",
+      "categories": ["deal"]
+    },
+    {
+      "id": 19,
+      "title": "The Lazy Susan Revolution ",
+      "description": "- Full Set - Dark Gray - The First Patented Lazy Susan Turntable Expandable for Rectangular & Oblong Tables - Kitchen & Dining Tables - Great Gift! Parties & Gatherings",
+      "image": "images/Susan.png",
+      "rating": "★★★★☆",
+      "link": "https://amzn.to/4aDZ2Tw",
+      "categories": ["deal"]
+    },
+    {
+      "id": 20,
+      "title": "1000X Handheld Digital Microscope",
+      "description": "Pocket Microscope with 2.0'' IPS Screen - STEM Toys Birthday Gifts for Girls Boys Child - Portable Edu Science Kits Toddler Age 3-6 6-12",
+      "image": "images/Handheld.png",
+      "rating": "★★★★★",
+      "link": "https://amzn.to/4arVq6M",
+      "categories": ["deal"]
     }
   ]
   
